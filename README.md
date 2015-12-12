@@ -1,2 +1,2 @@
-# Project-Pipeline
+# Project-Workflow
 This repository describes the steps that I take and processes I use when working on a project.
